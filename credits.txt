@@ -1,0 +1,7 @@
+FONTS:
+Teeny Tiny Pixls by Chequered Ink
+https://www.fontspace.com/teeny-tiny-pixls-font-f30095
+
+SFX:
+Made with jsfxr
+https://sfxr.me/
